@@ -34,7 +34,7 @@
 	
 	<div class="uk-cotainer uk-magin-large-top">
 		<h1 class="uk-h1 uk-heading-bullet uk-text-center uk-margin-large">
-			제품 및 리뷰 게시판
+			제품 및 리뷰 게시판 / 힝속았지
 		</h1>
 	</div>
 	
